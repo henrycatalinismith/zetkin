@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "call.zetk.in",
+			"path": "call.zetk.in"
+		},
+		{
+			"name": "organize.zetk.in",
+			"path": "organize.zetk.in"
+		},
+		{
+			"name": "www.zetk.in",
+			"path": "www.zetk.in"
+		},
+		{
+			"name": "zetkin-common",
+			"path": "zetkin-common"
+		},
+		{
+			"path": "zetkin.org"
+		}
+	]
+}

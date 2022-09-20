@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "call.zetk.in": "git@github.com:zetkin/call.zetk.in.git",
+    "organize.zetk.in": "git@github.com:zetkin/organize.zetk.in.git",
+    "www.zetk.in": "git@github.com:zetkin/www.zetk.in.git",
+    "zetkin-common": "git@github.com:zetkin/zetkin-common.git",
+    "zetkin.org": "git@github.com:zetkin/zetkin.org.git"
+  }
+}
