@@ -1,6 +1,10 @@
 {
 	"folders": [
 		{
+			"name": "app.zetkin.org",
+			"path": "app.zetkin.org"
+		},
+		{
 			"name": "call.zetk.in",
 			"path": "call.zetk.in"
 		},
@@ -17,6 +21,7 @@
 			"path": "zetkin-common"
 		},
 		{
+			"name": "zetkin.org",
 			"path": "zetkin.org"
 		}
 	]
